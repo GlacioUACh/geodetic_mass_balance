@@ -3,3 +3,7 @@
 
 ## Descripción / Description
 This code...
+
+## Dependecias / Dependencies
+
+## Instrucciones / Instructions
