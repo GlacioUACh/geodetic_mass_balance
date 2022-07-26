@@ -6,15 +6,38 @@ This code...
 
 ## Dependecias / Dependencies
 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;   
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;     
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry" alt="raspberry" width="40" height="40"/>&nbsp; 
+<div id="badges">
+  <a href="https://github.com/GlacioUACh/geodetic_mass_balance">
+    <img src="https://img.shields.io/badge/Dependencia-Pybob-red" alt="repo1"/>
+  </a>
+  <a href="https://github.com/GlacioUACh/Data_manipulation">
+    <img src="https://img.shields.io/badge/Dependencia-Numpy-red" alt="Twitter Badge"/>
+  </a>
+  <a href="https://github.com/GlacioUACh/Glacier_Dynamics"> 
+    <img src="https://img.shields.io/badge/Dependencia- Matplotlib-red" alt="Twitter Badge"/>
+  </a>
+   <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-OsGeo-red" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-Fiona-red" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-Rasterio-red" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-Shapely-red" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-PyProj-red" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-Xdem-red" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://github.com/GlacioUACh/Energy_Balance">
+    <img src="https://img.shields.io/badge/Dependencia-Geoutils-red" alt="Twitter Badge"/>
+  </a>  
+  
 </div>
 
 
