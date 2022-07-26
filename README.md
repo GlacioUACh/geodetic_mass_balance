@@ -9,5 +9,5 @@ En esta sección encontrarás diversos scripts generados por nuestro equipo y co
 
 ## Script:
 
-LIDAR: Este paquete de códigos generados por <a href="https://github.com/JorgeBerkhoff"> Jorge Berkhoff </a> Permite estimar el balance geodésico mediante el uso de Python y modelos de elvación LIDAR. En la carpeta podrás encontrar los codigos utilizados y un ejemplo de su implementación para el glaciar Mocho-Choshuenco.
+<a href="https://github.com/GlacioUACh/geodetic_mass_balance/tree/main/LIDAR"> Lidar geodetic mass Balance </a>: Este paquete de códigos generados por <a href="https://github.com/JorgeBerkhoff"> Jorge Berkhoff </a> Permite estimar el balance geodésico mediante el uso de Python y modelos de elvación LIDAR. En la carpeta podrás encontrar los codigos utilizados y un ejemplo de su implementación para el glaciar Mocho-Choshuenco.
 
